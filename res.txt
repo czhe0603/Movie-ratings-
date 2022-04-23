@@ -1,0 +1,29 @@
+name,year,average_score
+The Godfather,1972,9.3
+Casablanca,1942,8.78
+Rear Window,1954,8.79333333333334
+City Lights,1931,8.79333333333334
+Pulp Fiction,1994,8.97666666666667
+The Lord of the Rings: The Return of the King,2003,8.97666666666667
+Schindler's List,1993,9.01
+Vertigo,1958,8.64333333333333
+Psycho,1960,8.79333333333334
+Singin' in the Rain,1952,8.66
+Modern Times,1936,8.74333333333333
+The Lord of the Rings: The Fellowship of the Ring,2001,8.86
+The Godfather: Part II,1974,8.99333333333333
+All About Eve,1950,8.59333333333333
+Some Like It Hot,1959,8.54
+Apocalypse Now,1979,8.65666666666667
+Double Indemnity,1944,8.55666666666667
+Saving Private Ryan,1998,8.67333333333333
+Taxi Driver,1976,8.54
+The Apartment,1960,8.54
+It's a Wonderful Life,1946,8.67
+The Dark Knight,2008,8.85333333333333
+The Lord of the Rings: The Two Towers,2002,8.72
+The Shawshank Redemption,1994,8.97
+The Lion King,1994,8.60333333333333
+Whiplash,2014,8.63666666666667
+Back to the Future,1985,8.58666666666667
+The Silence of the Lambs,1991,8.60333333333333
